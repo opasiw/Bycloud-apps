@@ -1,12 +1,10 @@
-[
-  {
-    "package": "info.dvkr.screenstream.dev",
-    "name": "ScreenStream",
-    "version": "4.4.2",
-    "size": "20 MB",
-    "category": "Ferramentas",
-    "description": "Transmitir a tela do Android pela rede local.",
-    "apkUrl": "https://github.com/opasiw/bycloud-apps/releases/download/screenstream-4.4.2/ScreenStream_4.4.2.apk",
-    "detailsUrl": "https://github.com/opasiw/bycloud-apps/releases/tag/screenstream-4.4.2"
-  }
-]
+{
+  "package": "info.dvkr.screenstream.dev",
+  "name": "ScreenStream",
+  "version": "4.4.2",
+  "size": "20 MB",
+  "category": "Ferramentas",
+  "description": "Transmitir a tela do Android pela rede local.",
+  "apkUrl": "https://github.com/opasiw/Bycloud-apps/releases/download/ScreenStream.4.4.2/ScreenStream_4.4.2.apk",
+  "detailsUrl": "https://github.com/opasiw/Bycloud-apps/releases/tag/ScreenStream.4.4.2"
+}
