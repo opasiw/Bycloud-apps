@@ -6,5 +6,11 @@
   "category": "Ferramentas",
   "description": "Transmitir a tela do Android pela rede local.",
   "apkUrl": "https://github.com/opasiw/Bycloud-apps/releases/download/ScreenStream.4.4.2/ScreenStream_4.4.2.apk",
-  "detailsUrl": "https://github.com/opasiw/Bycloud-apps/releases/tag/ScreenStream.4.4.2"
+  "detailsUrl": "",
+  "screenshots": [
+    "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/ScreenStream/Screenshot_20260919_081738_ScreenStream.jpg",
+    "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/ScreenStream/Screenshot_20260919_081748_ScreenStream.jpg",
+    "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/ScreenStream/Screenshot_20260919_081806_ScreenStream.jpg",
+    "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/ScreenStream/Screenshot_20260919_081816_ScreenStream.jpg"
+  ]
 }
