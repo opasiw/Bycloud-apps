@@ -1,18 +1,38 @@
-{
-  "package": "info.dvkr.screenstream.dev",
-  "name": "ScreenStream",
-  "version": "4.4.2",
-  "size": "20 MB",
-  "category": "Ferramentas",
-  "description": "Transmitir a tela do Android pela rede local.",
-  "apkUrl": "https://github.com/opasiw/Bycloud-apps/releases/download/ScreenStream.4.4.2/ScreenStream_4.4.2.apk",
-  "detailsUrl": "",
-  "iconUrl": "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/icone/ScreenStream/unnamed.webp",
-  "screenshots": [
-    "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/ScreenStream/Screenshot_20260919_081738_ScreenStream.jpg",
-    "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/ScreenStream/Screenshot_20260919_081748_ScreenStream.jpg",
-    "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/ScreenStream/Screenshot_20260919_081806_ScreenStream.jpg",
-    "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/ScreenStream/Screenshot_20260919_081816_ScreenStream.jpg"
-  ]
-}
-
+[
+  {
+    "package": "info.dvkr.screenstream.dev",
+    "name": "ScreenStream",
+    "version": "4.4.2",
+    "size": "20 MB",
+    "category": "Ferramentas",
+    "description": "Transmitir a tela do Android pela rede local.",
+    "apkUrl": "https://github.com/opasiw/Bycloud-apps/releases/download/ScreenStream.4.4.2/ScreenStream_4.4.2.apk",
+    "iconUrl": "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/icone/ScreenStream/unnamed.webp",
+    "screenshots": [
+      "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/ScreenStream/Screenshot_20260919_081738_ScreenStream.jpg",
+      "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/ScreenStream/Screenshot_20260919_081748_ScreenStream.jpg",
+      "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/ScreenStream/Screenshot_20260919_081806_ScreenStream.jpg",
+      "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/ScreenStream/Screenshot_20260919_081816_ScreenStream.jpg"
+    ]
+  },
+  {
+    "package": "com.dts.freefiremax",
+    "name": "Free Fire MAX",
+    "version": "2.132.1",
+    "size": "396 MB",
+    "category": "Jogos",
+    "description": "Free Fire MAX.",
+    "developer": "Garena",
+    "price": "Grátis",
+    "rating": "4,6 ★",
+    "ageRating": "12  Classificação 12 anos",
+    "apkUrl": "https://github.com/opasiw/Bycloud-apps/releases/download/FreeFireMAX/Free.Fire.MAX_2.132.1.apk",
+    "iconUrl": "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/icone/Free%20Fire%20MAX/unnamed%20(2).webp",
+    "bannerUrl": "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/Banner/Free%20Fire%20MAX/unnamed%20(1).webp",
+    "screenshots": [
+      "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/Free%20Fire%20MAX/unnamed%20(3).webp",
+      "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/Free%20Fire%20MAX/unnamed%20(4).webp",
+      "https://raw.githubusercontent.com/opasiw/Bycloud-apps/main/previas/Free%20Fire%20MAX/unnamed%20(5).webp"
+    ]
+  }
+]
